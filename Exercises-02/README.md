@@ -22,6 +22,7 @@ This is the version that was created in the aftermath of the Fall 2025 Semester.
 * Did away with the information about 'Importing' and 'learning strategy' (effectively reducing its length by half)
 * Added extra details about Indices, and Exercise problems 4 involving indices
 * Added Problems 1.5 (replacing the check) and 1.6.
+* Edited the Trouble Problem (2.3) to mae it easier to follow.
 * Removed Exercise 3.1 (on the .eval) because the method was a bit antiquated (no one does it like that really)
 
 
