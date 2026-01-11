@@ -17,9 +17,14 @@ This was the version of the Exercises as created (but not used) near the end of 
 * Addition of Exercise problems 2.2 and 2.3.
 * Reworked the Check for Exercise problems 1 to make it actually work (sorry)
 
-## Version 1.0 (current):
+## Version 1.0:
 This is the version that was created in the aftermath of the Fall 2025 Semester.
 * Did away with the information about 'Importing' and 'learning strategy' (effectively reducing its length by half)
+
+## Version 1.1 (current):
+This was also created during the Winter Break of 2025-26.
+* Adjusted the toolbox (the str.replace was not correct)
+* Added a timestamp for the video link (to make life easier)
 * Added extra details about Indices, and Exercise problems 4 involving indices
 * Added Problems 1.5 (replacing the check) and 1.6.
 * Edited the Trouble Problem (2.3) to mae it easier to follow.
