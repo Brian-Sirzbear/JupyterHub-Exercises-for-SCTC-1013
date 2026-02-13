@@ -17,4 +17,3 @@ Upon reconsideration of the Exercises and exposure to the course as it stands, I
 * Toolbox-Heavy: I will try to refine the toolbox in later versions, particularly to make it more easily searchable and relevant to the course. I intend to have this an easily consultable reference sheet for them during their time in the exercises, labs and eventually the group project.
 
 I intend to have these new versions out and uploaded to the relevant folders on this GitHub by the first week of March.
-* 
