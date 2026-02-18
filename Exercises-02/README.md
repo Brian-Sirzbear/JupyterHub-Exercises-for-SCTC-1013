@@ -21,7 +21,7 @@ This was the version of the Exercises as created (but not used) near the end of 
 This is the version that was created in the aftermath of the Fall 2025 Semester.
 * Did away with the information about 'Importing' and 'learning strategy' (effectively reducing its length by half)
 
-## Version 1.1 (current):
+## Version 1.1:
 This was also created during the Winter Break of 2025-26.
 * Adjusted the toolbox (the str.replace was not correct)
 * Added a timestamp for the video link (to make life easier)
@@ -29,5 +29,13 @@ This was also created during the Winter Break of 2025-26.
 * Added Problems 1.5 (replacing the check) and 1.6.
 * Edited the Trouble Problem (2.3) to mae it easier to follow.
 * Removed Exercise 3.1 (on the .eval) because the method was a bit antiquated (no one does it like that really)
+
+## Version 1.2 (current):
+* Reorganized the lists/arrays toolbox, and got rid of the example cells.
+* Brought Exercise 1 up to just below the lists/arrays toolbox
+* Added New Exercise 2 that delves into rudimentary statistically analysis (old Exercise 2 is become the Challenge Exercise 5)
+* Brought Exercise 3 to just below the String toolbox
+* Got rid of the Index Exercises (the manner in which it was taught in those exercise problems was too far removed from the data science aspect, i feel)
+* Added New Exercise 4 that delves into data wrangling
 
 
