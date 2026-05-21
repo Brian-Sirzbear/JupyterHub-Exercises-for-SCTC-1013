@@ -30,7 +30,7 @@ This was also created during the Winter Break of 2025-26.
 * Edited the Trouble Problem (2.3) to mae it easier to follow.
 * Removed Exercise 3.1 (on the .eval) because the method was a bit antiquated (no one does it like that really)
 
-## Version 1.2 (current):
+## Version 1.2:
 * Reorganized the lists/arrays toolbox, and got rid of the example cells.
 * Brought Exercise 1 up to just below the lists/arrays toolbox
 * Added New Exercise 2 that delves into rudimentary statistically analysis (old Exercise 2 is become the Challenge Exercise 5)
@@ -39,6 +39,7 @@ This was also created during the Winter Break of 2025-26.
 * Added New Exercise 4 that delves into data wrangling
 
 ## Version 1.3 (current):
+This was created 5/21/2026
 * With the creation of the Student Library, we will almost certainly be placing more reliance/reinforcement on the student's ability to compile their library, and as such, we do not want them to rely on the tables of functions/methods of the Exercises themselves. I have removed the vast majority of these tables.
 * In the instances where a student would need particular functions/methods not in Lab 2, I have provided them at the relevant problems.
 * Renamed all Exercise parts to Problems (make the distincton between Exercises and the individual Problems within exercises)
