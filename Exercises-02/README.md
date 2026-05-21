@@ -38,4 +38,9 @@ This was also created during the Winter Break of 2025-26.
 * Got rid of the Index Exercises (the manner in which it was taught in those exercise problems was too far removed from the data science aspect, i feel)
 * Added New Exercise 4 that delves into data wrangling
 
-
+## Version 1.3 (current):
+* With the creation of the Student Library, we will almost certainly be placing more reliance/reinforcement on the student's ability to compile their library, and as such, we do not want them to rely on the tables of functions/methods of the Exercises themselves. I have removed the vast majority of these tables.
+* In the instances where a student would need particular functions/methods not in Lab 2, I have provided them at the relevant problems.
+* Renamed all Exercise parts to Problems (make the distincton between Exercises and the individual Problems within exercises)
+* Added Rules to Problem 3.1 (make them actually put in effort smh)
+* 
