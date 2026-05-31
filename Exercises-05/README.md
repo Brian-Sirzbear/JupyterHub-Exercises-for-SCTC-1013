@@ -20,7 +20,11 @@ Changes:
 * Had Problem 1.4 limit itself to just the PYPL entries (now there is absolutely no risk of crashing the kernel :3)
 * Changed the encoded examples in Problem 4 to reflect the new layout (before, they were additional hints that led to other parts of Exercises 4; now that it's in E5, this is less than ideal)
 
-## Versions 1.4 (current!):
+## Versions 1.4:
 * Renamed each section from Exercises to Problems (less confusion over the overall exercises and the individual exercises)
 * Added a Problem 5 that preps students for the coming statistical ordeal
 * Added a farewell :(
+
+## Version 1.5 (current):
+* Revamped Problem 3 to focus more on optional arguments
+* 
