@@ -28,5 +28,13 @@ This was also created during the Winter Break of 2025-26.
 * The Old Exercises 1 is retermed Exercises 3 (and old 1.2 is removed)
 * Added a section in Exercises 2 that deals with `epi` table
 * Added challenge problems for each part in Exercises 2
+
+## Version 2.0:
+This was created during Fall Break 2026.
+* Complete redo of all aspects
+* Created new system of labeling each part, section, and problem
+* Prioritized a gradual curve, from beginning to end
+* Reintroduced the toolbox in full, with clearer formatting.
+
 * Exercises 3 and 4, introducing group and pivot, are redesignated 4 and 5.
 * Added a section on function-related .pivot, but i can't think of any useful examples to use it in.
