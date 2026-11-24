@@ -18,3 +18,11 @@ Upon reconsideration of the Exercises and exposure to the course as it stands, I
 * Expansion of Scope: I also do want to create an 'Exercises 01' that goes over the structure and syntax of functions/methods/operations/etc. because that seems to be something that students have been struggling with as of late.
 
 I intend to have these new versions out and uploaded to the relevant folders on this GitHub by the first week of March.
+
+## The Updated Motivations for Version 2.0 onwards
+After further considerations in the summer and fall of 2026, I am updating the guidelines of the Exercises. These will see implementation in any versions of 2.0 onwards.
+
+* No expectations: I have found that making Exercises with some notion or expectation of a student's prior experience is a dire mistake, as more often than not they will have forgotten the content of the lab, or are very weakly grasping it. As such, the first few parts will be very basic (often down to single functions or methods), and this will gradually grow in difficulty as one progresses.
+* Repetition: Versions 2.0 onwards will have noticeably more tasks for the student, as they require lots of repetition to fully understand something.
+* Novelty: These new Exercises will strive to be diverse in their content, usually doing completely new things with the same stuff that was used in lab. This is especially the case with Exercises 03, as this relies on external tables which are not feasible in this current setup. The first few versions will contain an abundance of material, with the expectation that successive versions will result in filtering out of those parts and problems that are deemed unnecessary.
+* Self-Contained: The Exercises require no new files (like extra tables, .py files, etc.) besides those supplied in the lab folder itself.
